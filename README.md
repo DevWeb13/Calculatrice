@@ -1,4 +1,4 @@
-# Calculatrice
+# calculatrice
 
 @author: [DevWeb13](https://twitter.com/DeveloppementW1)
 
